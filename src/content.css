@@ -2,8 +2,22 @@
   display: flex;
   background-color: #eee;
   justify-content: center;
+  width: 100%;
+  margin: 70px auto;
 }
 .center {
+  width: 55%;
   column-count: 3;
-  width: 1200px;
+}
+
+.padding-container{
+  padding-bottom: 20px;
+}
+
+.container-error {
+  padding-top: 70px;
+}
+
+.skeleton{
+  margin-top: 50px;
 }
